@@ -1,0 +1,5 @@
+  Srv-01 , used=87 , total=100  
+SRV-02,USED=95,TOTAL=100
+  Srv-03, used = 45, total = 100 
+srv-04 , USED=100 , TOTAL=100
+  SRV-05 , used=70 , total=100  
